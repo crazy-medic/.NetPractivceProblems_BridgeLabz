@@ -26,3 +26,17 @@ D:\BridgeLabzEdu\.NetClassFiles\EmployeeAttendance\bin\Debug\netcoreapp3.1\Emplo
 D:\BridgeLabzEdu\.NetClassFiles\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.dll
 D:\BridgeLabzEdu\.NetClassFiles\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.pdb
 D:\BridgeLabzEdu\.NetClassFiles\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.genruntimeconfig.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.csproj.AssemblyReference.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.AssemblyInfoInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.AssemblyInfo.cs
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.csproj.CoreCompileInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.exe
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.deps.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.runtimeconfig.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.runtimeconfig.dev.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.genruntimeconfig.cache
