@@ -23,19 +23,18 @@ namespace EmployeeAttendance
             {
                 // Creating random number
                 Random random = new Random();
-                int EmpCheck = random.Next(3);
+                int EmpCheck = random.Next(0,3);
 
-                if (EmpCheck == 1)
+                switch (EmpCheck)
                 {
-                    EmpHrs = 8;
-                }
-                else if (EmpCheck == 2)
-                {
-                    EmpHrs = 5;
-                }
-                else
-                {
-                    EmpHrs = 0;
+                    case 1:
+                        EmpHrs = 8;
+
+                    case 2:
+                        EmpHrs = 5;
+                    
+                    default:
+                        EmpHrs = 0;
                 }
                 EmpWage = EmpWagePerHr * EmpHrs;
                 TotalEmpWage += EmpWage;
