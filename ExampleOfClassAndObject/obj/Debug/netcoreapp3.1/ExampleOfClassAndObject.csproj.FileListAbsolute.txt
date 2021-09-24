@@ -1,0 +1,14 @@
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfClassAndObject\obj\Debug\netcoreapp3.1\ExampleOfClassAndObject.csproj.AssemblyReference.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfClassAndObject\obj\Debug\netcoreapp3.1\ExampleOfClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfClassAndObject\obj\Debug\netcoreapp3.1\ExampleOfClassAndObject.AssemblyInfoInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfClassAndObject\obj\Debug\netcoreapp3.1\ExampleOfClassAndObject.AssemblyInfo.cs
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfClassAndObject\obj\Debug\netcoreapp3.1\ExampleOfClassAndObject.csproj.CoreCompileInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfClassAndObject\bin\Debug\netcoreapp3.1\ExampleOfClassAndObject.exe
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfClassAndObject\bin\Debug\netcoreapp3.1\ExampleOfClassAndObject.deps.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfClassAndObject\bin\Debug\netcoreapp3.1\ExampleOfClassAndObject.runtimeconfig.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfClassAndObject\bin\Debug\netcoreapp3.1\ExampleOfClassAndObject.runtimeconfig.dev.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfClassAndObject\bin\Debug\netcoreapp3.1\ExampleOfClassAndObject.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfClassAndObject\bin\Debug\netcoreapp3.1\ExampleOfClassAndObject.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfClassAndObject\obj\Debug\netcoreapp3.1\ExampleOfClassAndObject.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfClassAndObject\obj\Debug\netcoreapp3.1\ExampleOfClassAndObject.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfClassAndObject\obj\Debug\netcoreapp3.1\ExampleOfClassAndObject.genruntimeconfig.cache
