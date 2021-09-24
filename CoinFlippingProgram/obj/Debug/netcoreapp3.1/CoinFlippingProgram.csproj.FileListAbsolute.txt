@@ -1,0 +1,14 @@
+D:\BridgeLabzEdu\.NetClassFiles\CoinFlippingProgram\obj\Debug\netcoreapp3.1\CoinFlippingProgram.csproj.AssemblyReference.cache
+D:\BridgeLabzEdu\.NetClassFiles\CoinFlippingProgram\obj\Debug\netcoreapp3.1\CoinFlippingProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzEdu\.NetClassFiles\CoinFlippingProgram\obj\Debug\netcoreapp3.1\CoinFlippingProgram.AssemblyInfoInputs.cache
+D:\BridgeLabzEdu\.NetClassFiles\CoinFlippingProgram\obj\Debug\netcoreapp3.1\CoinFlippingProgram.AssemblyInfo.cs
+D:\BridgeLabzEdu\.NetClassFiles\CoinFlippingProgram\obj\Debug\netcoreapp3.1\CoinFlippingProgram.csproj.CoreCompileInputs.cache
+D:\BridgeLabzEdu\.NetClassFiles\CoinFlippingProgram\bin\Debug\netcoreapp3.1\CoinFlippingProgram.exe
+D:\BridgeLabzEdu\.NetClassFiles\CoinFlippingProgram\bin\Debug\netcoreapp3.1\CoinFlippingProgram.deps.json
+D:\BridgeLabzEdu\.NetClassFiles\CoinFlippingProgram\bin\Debug\netcoreapp3.1\CoinFlippingProgram.runtimeconfig.json
+D:\BridgeLabzEdu\.NetClassFiles\CoinFlippingProgram\bin\Debug\netcoreapp3.1\CoinFlippingProgram.runtimeconfig.dev.json
+D:\BridgeLabzEdu\.NetClassFiles\CoinFlippingProgram\bin\Debug\netcoreapp3.1\CoinFlippingProgram.dll
+D:\BridgeLabzEdu\.NetClassFiles\CoinFlippingProgram\bin\Debug\netcoreapp3.1\CoinFlippingProgram.pdb
+D:\BridgeLabzEdu\.NetClassFiles\CoinFlippingProgram\obj\Debug\netcoreapp3.1\CoinFlippingProgram.dll
+D:\BridgeLabzEdu\.NetClassFiles\CoinFlippingProgram\obj\Debug\netcoreapp3.1\CoinFlippingProgram.pdb
+D:\BridgeLabzEdu\.NetClassFiles\CoinFlippingProgram\obj\Debug\netcoreapp3.1\CoinFlippingProgram.genruntimeconfig.cache
