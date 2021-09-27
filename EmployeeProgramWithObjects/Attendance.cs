@@ -8,10 +8,19 @@ namespace EmployeeProgramWithObjects
     {
         public void PresentAbsent(int a)
         {
-            if (a == 0)
+            int att = a;
+            if (att == 0)
+            {
                 Console.WriteLine("Employee is absent");
+            }
             else
+            {
                 Console.WriteLine("Employee is present");
+                FullDayWage Wage = new FullDayWage();
+                Wage.EmpWage();
+            }
+                
+
         }
     }
 }
