@@ -9,7 +9,7 @@ namespace EmployeeProgramWithObjects
             Console.WriteLine("Employee Wage Computation Program");
             Attendance att = new Attendance();
             Random rand = new Random();
-            att.PresentAbsent(rand.Next(0,2));
+            att.PresentAbsent(rand.Next(0,3));
         }
     }
 }

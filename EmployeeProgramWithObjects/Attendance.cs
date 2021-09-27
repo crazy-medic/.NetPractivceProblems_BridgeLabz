@@ -13,11 +13,17 @@ namespace EmployeeProgramWithObjects
             {
                 Console.WriteLine("Employee is absent");
             }
+            else if (att == 1)
+            {
+                Console.WriteLine("Employee is present for full time today");
+                FullDayWage Wage = new FullDayWage();
+                Wage.EmpFullTimeWage();
+            }
             else
             {
-                Console.WriteLine("Employee is present");
-                FullDayWage Wage = new FullDayWage();
-                Wage.EmpWage();
+                Console.WriteLine("Employee is present for part time today");
+                PartTimeWage Wage1 = new PartTimeWage();
+                Wage1.EmpPartTimeWage();
             }
                 
 
