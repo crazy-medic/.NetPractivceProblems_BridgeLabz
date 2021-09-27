@@ -9,22 +9,34 @@ namespace EmployeeProgramWithObjects
         public void PresentAbsent(int a)
         {
             int att = a;
-            if (att == 0)
+            switch (att)
             {
-                Console.WriteLine("Employee is absent");
+                case 0:
+                    {
+                        Console.WriteLine("Employee is absent");
+                            break;
+                    }
+                case 1:
+                    {
+                        Console.WriteLine("Employee is present for full time today");
+                        FullDayWage Wage = new FullDayWage();
+                        Wage.EmpFullTimeWage();
+                            break;
+                    }
+                case 2:
+                    {
+                        Console.WriteLine("Employee is present for part time today");
+                        PartTimeWage Wage1 = new PartTimeWage();
+                        Wage1.EmpPartTimeWage();
+                            break;
+                    }
+                default:
+                    {
+                        break;
+                    }
+
             }
-            else if (att == 1)
-            {
-                Console.WriteLine("Employee is present for full time today");
-                FullDayWage Wage = new FullDayWage();
-                Wage.EmpFullTimeWage();
-            }
-            else
-            {
-                Console.WriteLine("Employee is present for part time today");
-                PartTimeWage Wage1 = new PartTimeWage();
-                Wage1.EmpPartTimeWage();
-            }
+                
                 
 
         }
