@@ -1,0 +1,14 @@
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfEncapsulaion\bin\Debug\netcoreapp3.1\ExampleOfEncapsulaion.exe
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfEncapsulaion\bin\Debug\netcoreapp3.1\ExampleOfEncapsulaion.deps.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfEncapsulaion\bin\Debug\netcoreapp3.1\ExampleOfEncapsulaion.runtimeconfig.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfEncapsulaion\bin\Debug\netcoreapp3.1\ExampleOfEncapsulaion.runtimeconfig.dev.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfEncapsulaion\bin\Debug\netcoreapp3.1\ExampleOfEncapsulaion.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfEncapsulaion\bin\Debug\netcoreapp3.1\ExampleOfEncapsulaion.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfEncapsulaion\obj\Debug\netcoreapp3.1\ExampleOfEncapsulaion.csproj.AssemblyReference.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfEncapsulaion\obj\Debug\netcoreapp3.1\ExampleOfEncapsulaion.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfEncapsulaion\obj\Debug\netcoreapp3.1\ExampleOfEncapsulaion.AssemblyInfoInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfEncapsulaion\obj\Debug\netcoreapp3.1\ExampleOfEncapsulaion.AssemblyInfo.cs
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfEncapsulaion\obj\Debug\netcoreapp3.1\ExampleOfEncapsulaion.csproj.CoreCompileInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfEncapsulaion\obj\Debug\netcoreapp3.1\ExampleOfEncapsulaion.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfEncapsulaion\obj\Debug\netcoreapp3.1\ExampleOfEncapsulaion.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ExampleOfEncapsulaion\obj\Debug\netcoreapp3.1\ExampleOfEncapsulaion.genruntimeconfig.cache
