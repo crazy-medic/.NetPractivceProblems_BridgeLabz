@@ -1,0 +1,16 @@
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\InventoryManageentProgram\obj\Debug\netcoreapp3.1\InventoryManageentProgram.csproj.AssemblyReference.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\InventoryManageentProgram\obj\Debug\netcoreapp3.1\InventoryManageentProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\InventoryManageentProgram\obj\Debug\netcoreapp3.1\InventoryManageentProgram.AssemblyInfoInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\InventoryManageentProgram\obj\Debug\netcoreapp3.1\InventoryManageentProgram.AssemblyInfo.cs
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\InventoryManageentProgram\obj\Debug\netcoreapp3.1\InventoryManageentProgram.csproj.CoreCompileInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\InventoryManageentProgram\bin\Debug\netcoreapp3.1\InventoryManageentProgram.exe
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\InventoryManageentProgram\bin\Debug\netcoreapp3.1\InventoryManageentProgram.deps.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\InventoryManageentProgram\bin\Debug\netcoreapp3.1\InventoryManageentProgram.runtimeconfig.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\InventoryManageentProgram\bin\Debug\netcoreapp3.1\InventoryManageentProgram.runtimeconfig.dev.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\InventoryManageentProgram\bin\Debug\netcoreapp3.1\InventoryManageentProgram.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\InventoryManageentProgram\bin\Debug\netcoreapp3.1\InventoryManageentProgram.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\InventoryManageentProgram\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\InventoryManageentProgram\obj\Debug\netcoreapp3.1\InventoryManageentProgram.csproj.CopyComplete
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\InventoryManageentProgram\obj\Debug\netcoreapp3.1\InventoryManageentProgram.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\InventoryManageentProgram\obj\Debug\netcoreapp3.1\InventoryManageentProgram.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\InventoryManageentProgram\obj\Debug\netcoreapp3.1\InventoryManageentProgram.genruntimeconfig.cache
