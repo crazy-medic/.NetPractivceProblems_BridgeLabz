@@ -4,11 +4,12 @@ using System.Text;
 
 namespace EmployeeProgramWithObjects
 {
-    class PartTimeWage
+    class PartTimeWage : FullDayWage
     {
+        public int PartWage = 120;
         public void EmpPartTimeWage()
         {
-            Console.WriteLine("Employee wage today is " + (20 * 6));
+            Console.WriteLine("Employee wage today is " + PartWage);
         }
 
     }

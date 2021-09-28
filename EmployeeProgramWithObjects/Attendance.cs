@@ -14,21 +14,22 @@ namespace EmployeeProgramWithObjects
                 case 0:
                     {
                         Console.WriteLine("Employee is absent");
-                            break;
+                        Console.WriteLine("There is no pay today");
+                        break;
                     }
                 case 1:
                     {
                         Console.WriteLine("Employee is present for full time today");
-                        FullDayWage Wage = new FullDayWage();
-                        Wage.EmpFullTimeWage();
-                            break;
+                        MonthlyWage wage = new MonthlyWage();
+                        wage.ThisMonthWageFullTime();
+                        break;
                     }
                 case 2:
                     {
                         Console.WriteLine("Employee is present for part time today");
-                        PartTimeWage Wage1 = new PartTimeWage();
-                        Wage1.EmpPartTimeWage();
-                            break;
+                        MonthlyWage wage1 = new MonthlyWage();
+                        wage1.ThisMonthWagePartTime();
+                        break;
                     }
                 default:
                     {

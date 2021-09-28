@@ -6,9 +6,10 @@ namespace EmployeeProgramWithObjects
 {
     class FullDayWage
     {
+        public int FullWage = 160;
         public void EmpFullTimeWage()
         {
-            Console.WriteLine("Employee wage today is " + (20 * 8));
+            Console.WriteLine("Employee wage today is " + FullWage);
         }
 
     }
