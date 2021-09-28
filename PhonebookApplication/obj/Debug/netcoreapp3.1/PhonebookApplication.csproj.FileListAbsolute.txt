@@ -1,0 +1,14 @@
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\PhonebookApplication\bin\Debug\netcoreapp3.1\PhonebookApplication.exe
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\PhonebookApplication\bin\Debug\netcoreapp3.1\PhonebookApplication.deps.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\PhonebookApplication\bin\Debug\netcoreapp3.1\PhonebookApplication.runtimeconfig.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\PhonebookApplication\bin\Debug\netcoreapp3.1\PhonebookApplication.runtimeconfig.dev.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\PhonebookApplication\bin\Debug\netcoreapp3.1\PhonebookApplication.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\PhonebookApplication\bin\Debug\netcoreapp3.1\PhonebookApplication.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\PhonebookApplication\obj\Debug\netcoreapp3.1\PhonebookApplication.csproj.AssemblyReference.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\PhonebookApplication\obj\Debug\netcoreapp3.1\PhonebookApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\PhonebookApplication\obj\Debug\netcoreapp3.1\PhonebookApplication.AssemblyInfoInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\PhonebookApplication\obj\Debug\netcoreapp3.1\PhonebookApplication.AssemblyInfo.cs
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\PhonebookApplication\obj\Debug\netcoreapp3.1\PhonebookApplication.csproj.CoreCompileInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\PhonebookApplication\obj\Debug\netcoreapp3.1\PhonebookApplication.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\PhonebookApplication\obj\Debug\netcoreapp3.1\PhonebookApplication.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\PhonebookApplication\obj\Debug\netcoreapp3.1\PhonebookApplication.genruntimeconfig.cache
