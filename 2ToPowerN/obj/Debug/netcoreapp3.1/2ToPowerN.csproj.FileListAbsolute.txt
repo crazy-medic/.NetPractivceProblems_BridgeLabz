@@ -1,0 +1,14 @@
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\2ToPowerN\obj\Debug\netcoreapp3.1\2ToPowerN.csproj.AssemblyReference.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\2ToPowerN\obj\Debug\netcoreapp3.1\2ToPowerN.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\2ToPowerN\obj\Debug\netcoreapp3.1\2ToPowerN.AssemblyInfoInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\2ToPowerN\obj\Debug\netcoreapp3.1\2ToPowerN.AssemblyInfo.cs
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\2ToPowerN\obj\Debug\netcoreapp3.1\2ToPowerN.csproj.CoreCompileInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\2ToPowerN\bin\Debug\netcoreapp3.1\2ToPowerN.exe
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\2ToPowerN\bin\Debug\netcoreapp3.1\2ToPowerN.deps.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\2ToPowerN\bin\Debug\netcoreapp3.1\2ToPowerN.runtimeconfig.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\2ToPowerN\bin\Debug\netcoreapp3.1\2ToPowerN.runtimeconfig.dev.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\2ToPowerN\bin\Debug\netcoreapp3.1\2ToPowerN.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\2ToPowerN\bin\Debug\netcoreapp3.1\2ToPowerN.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\2ToPowerN\obj\Debug\netcoreapp3.1\2ToPowerN.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\2ToPowerN\obj\Debug\netcoreapp3.1\2ToPowerN.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\2ToPowerN\obj\Debug\netcoreapp3.1\2ToPowerN.genruntimeconfig.cache
