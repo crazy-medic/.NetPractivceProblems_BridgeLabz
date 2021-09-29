@@ -1,0 +1,14 @@
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\LargestOfNumbers\bin\Debug\netcoreapp3.1\LargestOfNumbers.exe
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\LargestOfNumbers\bin\Debug\netcoreapp3.1\LargestOfNumbers.deps.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\LargestOfNumbers\bin\Debug\netcoreapp3.1\LargestOfNumbers.runtimeconfig.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\LargestOfNumbers\bin\Debug\netcoreapp3.1\LargestOfNumbers.runtimeconfig.dev.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\LargestOfNumbers\bin\Debug\netcoreapp3.1\LargestOfNumbers.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\LargestOfNumbers\bin\Debug\netcoreapp3.1\LargestOfNumbers.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\LargestOfNumbers\obj\Debug\netcoreapp3.1\LargestOfNumbers.csproj.AssemblyReference.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\LargestOfNumbers\obj\Debug\netcoreapp3.1\LargestOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\LargestOfNumbers\obj\Debug\netcoreapp3.1\LargestOfNumbers.AssemblyInfoInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\LargestOfNumbers\obj\Debug\netcoreapp3.1\LargestOfNumbers.AssemblyInfo.cs
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\LargestOfNumbers\obj\Debug\netcoreapp3.1\LargestOfNumbers.csproj.CoreCompileInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\LargestOfNumbers\obj\Debug\netcoreapp3.1\LargestOfNumbers.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\LargestOfNumbers\obj\Debug\netcoreapp3.1\LargestOfNumbers.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\LargestOfNumbers\obj\Debug\netcoreapp3.1\LargestOfNumbers.genruntimeconfig.cache
