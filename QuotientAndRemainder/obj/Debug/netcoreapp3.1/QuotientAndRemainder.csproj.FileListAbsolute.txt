@@ -1,0 +1,13 @@
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\QuotientAndRemainder\bin\Debug\netcoreapp3.1\QuotientAndRemainder.exe
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\QuotientAndRemainder\bin\Debug\netcoreapp3.1\QuotientAndRemainder.deps.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\QuotientAndRemainder\bin\Debug\netcoreapp3.1\QuotientAndRemainder.runtimeconfig.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\QuotientAndRemainder\bin\Debug\netcoreapp3.1\QuotientAndRemainder.runtimeconfig.dev.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\QuotientAndRemainder\bin\Debug\netcoreapp3.1\QuotientAndRemainder.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\QuotientAndRemainder\bin\Debug\netcoreapp3.1\QuotientAndRemainder.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\QuotientAndRemainder\obj\Debug\netcoreapp3.1\QuotientAndRemainder.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\QuotientAndRemainder\obj\Debug\netcoreapp3.1\QuotientAndRemainder.AssemblyInfoInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\QuotientAndRemainder\obj\Debug\netcoreapp3.1\QuotientAndRemainder.AssemblyInfo.cs
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\QuotientAndRemainder\obj\Debug\netcoreapp3.1\QuotientAndRemainder.csproj.CoreCompileInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\QuotientAndRemainder\obj\Debug\netcoreapp3.1\QuotientAndRemainder.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\QuotientAndRemainder\obj\Debug\netcoreapp3.1\QuotientAndRemainder.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\QuotientAndRemainder\obj\Debug\netcoreapp3.1\QuotientAndRemainder.genruntimeconfig.cache
