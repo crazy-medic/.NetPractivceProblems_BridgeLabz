@@ -1,0 +1,13 @@
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ConstantOrVowel\bin\Debug\netcoreapp3.1\ConstantOrVowel.exe
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ConstantOrVowel\bin\Debug\netcoreapp3.1\ConstantOrVowel.deps.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ConstantOrVowel\bin\Debug\netcoreapp3.1\ConstantOrVowel.runtimeconfig.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ConstantOrVowel\bin\Debug\netcoreapp3.1\ConstantOrVowel.runtimeconfig.dev.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ConstantOrVowel\bin\Debug\netcoreapp3.1\ConstantOrVowel.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ConstantOrVowel\bin\Debug\netcoreapp3.1\ConstantOrVowel.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ConstantOrVowel\obj\Debug\netcoreapp3.1\ConstantOrVowel.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ConstantOrVowel\obj\Debug\netcoreapp3.1\ConstantOrVowel.AssemblyInfoInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ConstantOrVowel\obj\Debug\netcoreapp3.1\ConstantOrVowel.AssemblyInfo.cs
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ConstantOrVowel\obj\Debug\netcoreapp3.1\ConstantOrVowel.csproj.CoreCompileInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ConstantOrVowel\obj\Debug\netcoreapp3.1\ConstantOrVowel.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ConstantOrVowel\obj\Debug\netcoreapp3.1\ConstantOrVowel.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\ConstantOrVowel\obj\Debug\netcoreapp3.1\ConstantOrVowel.genruntimeconfig.cache
