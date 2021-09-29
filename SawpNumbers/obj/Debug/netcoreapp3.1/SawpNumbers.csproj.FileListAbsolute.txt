@@ -1,0 +1,14 @@
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\SawpNumbers\bin\Debug\netcoreapp3.1\SawpNumbers.exe
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\SawpNumbers\bin\Debug\netcoreapp3.1\SawpNumbers.deps.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\SawpNumbers\bin\Debug\netcoreapp3.1\SawpNumbers.runtimeconfig.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\SawpNumbers\bin\Debug\netcoreapp3.1\SawpNumbers.runtimeconfig.dev.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\SawpNumbers\bin\Debug\netcoreapp3.1\SawpNumbers.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\SawpNumbers\bin\Debug\netcoreapp3.1\SawpNumbers.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\SawpNumbers\obj\Debug\netcoreapp3.1\SawpNumbers.csproj.AssemblyReference.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\SawpNumbers\obj\Debug\netcoreapp3.1\SawpNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\SawpNumbers\obj\Debug\netcoreapp3.1\SawpNumbers.AssemblyInfoInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\SawpNumbers\obj\Debug\netcoreapp3.1\SawpNumbers.AssemblyInfo.cs
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\SawpNumbers\obj\Debug\netcoreapp3.1\SawpNumbers.csproj.CoreCompileInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\SawpNumbers\obj\Debug\netcoreapp3.1\SawpNumbers.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\SawpNumbers\obj\Debug\netcoreapp3.1\SawpNumbers.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\SawpNumbers\obj\Debug\netcoreapp3.1\SawpNumbers.genruntimeconfig.cache
