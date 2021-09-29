@@ -1,0 +1,13 @@
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.exe
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.deps.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.runtimeconfig.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.runtimeconfig.dev.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.AssemblyInfoInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.AssemblyInfo.cs
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.csproj.CoreCompileInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.genruntimeconfig.cache
