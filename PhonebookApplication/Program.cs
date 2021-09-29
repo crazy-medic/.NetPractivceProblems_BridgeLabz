@@ -10,7 +10,6 @@ namespace PhonebookApplication
             Person P1 = new Person();
             P1.PrintHeading();
             P1.PrintDetails();
-
         }
     }
 }
